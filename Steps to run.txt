@@ -1,0 +1,6 @@
+Steps to run:
+
+1. Download the Sudoku Setup.exe file.
+2. Extract the file.
+3. Open the folder Sudoku.
+4. Run Sudoku.exe
